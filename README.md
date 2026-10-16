@@ -33,7 +33,7 @@ The global unicorn companies dataset contains 1,075 rows and 11 columns. It incl
 ![Data Preview](dashboard.png)
 
 ## Link to Power BI Report
-Click the link to access the full Power BI Report: <a href=" [Click here](https://app.powerbi.com/view?r=eyJrIjoiZDM1NzYzYWEtMzcyMi00ODljLWIyZjAtOTNmNTA5YTk1ZTZmIiwidCI6IjZjNzQ3Mzg1LTUyNTktNDcwMS05MTkzLTc5ZTkxNWNlYjA3ZSJ9)
+Click the link to access the full Power BI Report:[Click here](https://app.powerbi.com/view?r=eyJrIjoiZDM1NzYzYWEtMzcyMi00ODljLWIyZjAtOTNmNTA5YTk1ZTZmIiwidCI6IjZjNzQ3Mzg1LTUyNTktNDcwMS05MTkzLTc5ZTkxNWNlYjA3ZSJ9)
 
 ## Data Cleaning and transformation
 - Created a calculated column to determine the number of years taken for companies to reach unicorn status.
